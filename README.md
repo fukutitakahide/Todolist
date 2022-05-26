@@ -6,9 +6,9 @@ todoapp
 ***
 タスクを管理するサービスです。  
 
-<img src="https://user-images.githubusercontent.com/55477664/170509037-dc2737ad-7954-47e5-8780-bcb5d2ae2ef8.png" width="500サイズ">
+<img src="https://user-images.githubusercontent.com/55477664/170511307-7a266c5c-cd51-42c0-a39a-4b0d4d9bcc52.png" width="500サイズ">
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/55477664/170509051-55c3e820-08e1-42f5-9056-26a02b382b2c.png" width="200サイズ">
+  <img src="https://user-images.githubusercontent.com/55477664/170511254-174396bc-d928-49a3-b0d4-d8ce9508a66a.png" width="200サイズ">
 </p>
 
 **使用技術**
